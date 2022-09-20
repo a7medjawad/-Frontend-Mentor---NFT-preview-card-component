@@ -23,8 +23,8 @@ Thank you for taking the time to look at my fun front-end coding challenge 🚀!
 
 ### Links
 
-- Solution URL: [https://github.com/a7medjawad/-Frontend-Mentor---NFT-preview-card-component]()
-- Live Site URL: [https://jocular-cuchufli-67f6e6.netlify.app/]()
+- Solution URL: [https://github.com/a7medjawad/-Frontend-Mentor---NFT-preview-card-component](https://github.com/a7medjawad/-Frontend-Mentor---NFT-preview-card-component)
+- Live Site URL: [https://jocular-cuchufli-67f6e6.netlify.app/](https://jocular-cuchufli-67f6e6.netlify.app/)
 
 ## My process
 
